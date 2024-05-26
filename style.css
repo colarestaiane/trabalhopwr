@@ -1,0 +1,100 @@
+body {
+    background: linear-gradient(68.15deg, #aa7fa3 16.62%, #ffffff 85.61%);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.menu ul {
+    text-align: center;
+}
+.menu-principal {
+    width: 100%;
+    height: 80px;
+}
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.logo {
+    float: left;
+    padding: 10px;
+    width: 60%;
+}
+.rede-sociais ul li {
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+}
+.rede-sociais {
+    width: 25%;
+    float: right;
+}
+.header-2 {
+    background-color: #4d4d4d;
+    width: 100%;
+    padding: 1.5px;
+}
+.menu-urls {
+    border-bottom: 3px solid #4d4d4d;
+}
+.menu ul li {
+    display: inline-block;
+    color:#4d4d4d;
+    margin-left: 3px;
+    margin: 0 auto;
+    text-align: center;
+}
+.menu ul li a {
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.menu {
+    width: 75%;
+    float: left;
+
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+table {
+    width: 50%; 
+    border-collapse: collapse; 
+    margin: 0 auto; 
+    margin-bottom: 10px;
+    margin-top: 50px;
+    background-color: rgb(180, 110, 171);
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #ffffff; 
+}
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4d4d4d;
+    font-weight: bold;
+    margin-top: 0;
+    margin-left: 350px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+#robozin {
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #c0c0c0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 60%;
+}
